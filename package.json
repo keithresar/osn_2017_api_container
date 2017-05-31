@@ -4,10 +4,8 @@
   "description": "",
   "main": "simple_router.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scripts": {
-      "start": "node simple_router.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node simple_router.js"
   },
   "repository": {
     "type": "git",
