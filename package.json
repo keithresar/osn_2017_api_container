@@ -8,7 +8,7 @@
   },
   "scripts": {
       "start": "simple_router.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/keithresar/osn_2017_api_node.git"
