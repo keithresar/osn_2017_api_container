@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "scripts": {
+      "start": "simple_router.js"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/keithresar/osn_2017_api_node.git"
